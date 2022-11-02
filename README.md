@@ -6,7 +6,7 @@ Used TOOL: Android (Java)
 Used Database: Sqlite
 
 Features:
-1.This app is has a custom keyboard to provide random name ,passward and gmail
+1.This app has a custom keyboard to provide random name ,passward and gmail \n
 2.SQLite Database is used to store all created Gmail and passward
 3.By using super user permission this app can click,swipe anywhere on screen ,open other device app by ADB command
 
