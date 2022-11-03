@@ -10,4 +10,6 @@ Features:
 2.SQLite Database is used to store all created Gmail and passward
 3.By using super user permission this app can click,swipe anywhere on screen ,open other device app by ADB command
 
+
+https://www.youtube.com/watch?v=EuwJgB7UoQc
 ![image](https://user-images.githubusercontent.com/55844514/199510290-53705cdf-eaf6-4cb2-a4d0-67f7928f46b2.png)
